@@ -1,0 +1,36 @@
+Certificate:
+	Data:
+		Version: 3 (0x2)
+		Serial Number:
+			9a:5e:40:21:b4:1c:ae:62
+		Signature Algorithm: sha1WithRSAEncryption
+		Issuer: C=de, ST=de, L=Frankfurt, O=Crypto
+		Validity
+			Not Before: Jul 7 12:02:58 2011 GMT
+			Not After:  Jul 6 12:02:58 2012 GMT
+		Subject: C=de, ST=de, L=Frankfurt, O=Crypto
+		Subject Public Key Info:
+			Public Key Algorithm: rsaEncryption
+			RSA Public Key: (512 bit)
+				Modulus (512 bit):
+					00:ad:4b:c0:f9:80:f4:52:3f:49:0f:c4:0c:12:ef:
+					ce:cc:1e:8a:f6:78:90:b6:56:24:49:87:6e:8e:09:
+					1e:86:1c:da:69:9e:5a:8e:b3:09:b0:a9:d6:b2:93:
+					10:0c:12:29:fb:d1:8a:59:51:f3:3b:6f:ba:b1:fd:
+					8d:90:f7:c8:29
+				Exponent: 3 (0x3)
+		X509v3 extensions:
+			X509v3 Subject Key Identifier:
+				46:7A:E1:11:F2:0A:00:89:F4:33:85:49:3F:F7:AE:44:AA:F1:18:BE
+			X509v3 Authority Key Identifier:
+				keyid: 46:7A:E1:11:F2:0A:00:89:F4:33:85:49:3F:F7:AE:44:AA:F1:18:BE
+				DirName:/C=de/ST=de/L=Frankfurt/O=Crypto
+				serial: 9A:5E:40:21:B4:1C:AE:62
+
+			X509v3 Basic Constraints:
+				CA: TRUE
+	Signature Algorithm: sha1WithRSAEncryption
+		75:06:5e:64:c9:52:18:83:26:0e:a1:3b:ec:05:83:1b:70:74:
+		5e:43:d4:52:a7:05:a8:f7:b2:d6:29:3c:01:e0:f5:71:f0:87:
+		2c:af:1b:6c:71:da:e6:ba:19:73:cb:e8:93:72:e4:1d:f9:da:
+		f9:3b:5e:e4:fc:a7:f2:a2:97:0b

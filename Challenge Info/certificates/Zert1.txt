@@ -1,0 +1,36 @@
+Certificate:
+	Data:
+		Version: 3 (0x2)
+		Serial Number:
+			9b:d3:3c:8f:36:a0:9d:40
+		Signature Algorithm: sha1WithRSAEncryption
+		Issuer: C=at, ST=at, L=vienna, O=NET
+		Validity
+			Not Before: Jul 7 11:29:36 2011 GMT
+			Not After:  Jul 6 11:29:36 2012 GMT
+		Subject: C=at, ST=at, L=vienna, O=NET
+		Subject Public Key Info:
+			Public Key Algorithm: rsaEncryption
+			RSA Public Key: (512 bit)
+				Modulus (512 bit):
+					00:96:23:51:1e:67:69:64:4d:69:3e:89:f6:92:ff:
+					c2:55:8e:ef:12:1d:42:ca:98:69:97:81:e1:39:e2:
+					9c:2e:1a:a5:8d:88:83:bb:db:a4:11:65:fd:eb:85:
+					a9:a5:64:8f:c2:9a:65:d5:9e:94:01:69:4d:d1:1a:
+					e2:05:f0:ce:3b
+				Exponent: 3 (0x3)
+		X509v3 extensions:
+			X509v3 Subject Key Identifier:
+				D1:B4:82:A7:83:CE:B5:A2:B9:B4:D2:A9:B8:0C:FF:D9:B9:77:EA:8B
+			X509v3 Authority Key Identifier:
+				keyid: D1:B4:82:A7:83:CE:B5:A2:B9:B4:D2:A9:B8:0C:FF:D9:B9:77:EA:8B
+				DirName:/C=at/ST=at/L=vienna/O=NET
+				serial: 9B:D3:3C:8F:36:A0:9D:40
+
+			X509v3 Basic Constraints:
+				CA: TRUE
+	Signature Algorithm: sha1WithRSAEncryption
+		12:f0:84:96:15:03:a3:b7:25:a2:78:c5:39:0a:2a:38:5e:61:
+		7a:01:59:22:1a:7e:25:76:ca:ed:12:80:ba:41:5a:8f:9c:4c:
+		37:d9:69:95:bc:1c:21:50:11:73:b3:c8:87:62:1b:59:73:98:
+		78:fb:07:9d:b6:15:99:cd:40:f6

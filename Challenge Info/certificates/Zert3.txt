@@ -1,0 +1,36 @@
+Certificate:
+	Data:
+		Version: 3 (0x2)
+		Serial Number:
+			9f:0d:9a:04:ed:b6:64:bb
+		Signature Algorithm: sha1WithRSAEncryption
+		Issuer: C=de, ST=de, L=Berlin, O=secURe
+		Validity
+			Not Before: Jul 7 12:40:51 2011 GMT
+			Not After: Jul  6 12:40:51 2012 GMT
+		Subject: C=de, ST=de, L=Berlin, O=secURe
+		Subject Public Key Info:
+			Public Key Algorithm: rsaEncryption
+			RSA Public Key: (512 bit)
+				Modulus (512 bit):
+					00:b7:22:33:64:d8:83:53:ec:02:b0:85:0e:8a:01:
+					d2:ba:9c:a2:66:3c:32:c1:5d:f7:b5:96:40:6c:6f:
+					c1:c1:71:ac:96:5a:55:4b:8b:33:8f:4b:b0:46:c5:
+					43:93:7b:4b:19:c6:99:86:4f:1d:0d:d4:be:01:77:
+					ec:cc:e0:bb:57
+				Exponent: 3 (0x3)
+		X509v3 extensions:
+			X509v3 Subject Key Identifier:
+				F1:BB:79:01:54:12:8D:73:F4:4C:10:17:44:43:AD:D0:4C:A5:C4:37
+			X509v3 Authority Key Identifier:
+				keyid: F1:BB:79:01:54:12:8D:73:F4:4C:10:17:44:43:AD:D0:4C:A5:C4:37
+				DirName:/C=de/ST=de/L=Berlin/O=secURe
+				serial: 9F:0D:9A:04:ED:B6:64:BB
+
+			X509v3 Basic Constraints:
+				CA: TRUE
+	Signature Algorithm: sha1WithRSAEncryption
+		24:d1:d5:20:1d:bf:b5:14:7f:e9:9a:71:cb:97:88:20:79:be:
+		3b:35:7c:93:e2:eb:9a:25:13:fb:cc:af:27:c5:cf:6f:3d:94:
+		86:1c:6d:c7:d4:d2:92:a2:12:75:d2:47:8c:d2:da:84:e7:2f:
+		18:fa:85:a3:46:62:bb:56:16:3b
